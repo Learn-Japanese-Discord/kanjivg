@@ -1,0 +1,22 @@
+{
+  "name": "kanjivg",
+  "version": "1.0.0",
+  "description": "KanjiVG: Kanji Vector Graphics",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Learn-Japanese-Discord/kanjivg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Learn-Japanese-Discord/kanjivg/issues"
+  },
+  "homepage": "https://github.com/Learn-Japanese-Discord/kanjivg#readme",
+  "dependencies": {
+    "convert-svg-to-png": "^0.6.4"
+  }
+}

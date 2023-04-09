@@ -12,3 +12,8 @@ See the file COPYING for more details.
 Documentation
 -------------
 The project's documentation is at https://kanjivg.tagaini.net/.
+
+
+Instructions
+------------
+Run `node convert.js` to convert all of the SVG files into PNG files that are usable by the discord bot.
