@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Learn-Japanese-Discord/kanjivg#readme",
   "dependencies": {
-    "convert-svg-to-png": "^0.6.4"
+    "convert-svg-to-png": "^0.6.4",
+    "jsdom": "^22.1.0"
   }
 }
